@@ -7,7 +7,7 @@
 
 設計動機: 當初我們覺得空戰1945挺好玩的，古早味遊戲的感覺，所以設計以前遊戲機台的遊戲，決定做一個類似的。
 
-
+![level_1](https://github.com/yencheng1028/Allegro_game1945/blob/main/Level_1.jpg)
 
 遊戲介紹:
 我方飛機有5點血​
@@ -23,9 +23,10 @@
 第三關敵機有6台二點血，一次發射一堆子彈​
 第四關敵機有8台十點血，一次發射一堆子彈，但己方飛機一次攻擊打兩點血且攻擊範圍增加
 
- 
+ ![level_2](https://github.com/yencheng1028/Allegro_game1945/blob/main/level_2.jpg)
 
-      ​
+ ![level4](https://github.com/yencheng1028/Allegro_game1945/blob/main/level4.jpg)
+     ​
 分工:
 
 劉晏誠:​
