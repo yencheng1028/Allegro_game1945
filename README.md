@@ -26,7 +26,11 @@
  ![level_2](https://github.com/yencheng1028/Allegro_game1945/blob/main/level_2.jpg)
 
  ![level4](https://github.com/yencheng1028/Allegro_game1945/blob/main/level4.jpg)
-     ​
+     
+     
+[遊戲展示](https://www.youtube.com/watch?v=JVcL4rMNCtw)
+     
+    ​
 分工:
 
 劉晏誠:​
